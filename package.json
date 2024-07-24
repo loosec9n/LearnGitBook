@@ -1,0 +1,24 @@
+{
+  "name": "new-gitbook",
+  "version": "1.0.0",
+  "description": "learn the gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loosec9n/LearnGitBook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loosec9n/LearnGitBook/issues"
+  },
+  "homepage": "https://github.com/loosec9n/LearnGitBook#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.8"
+  }
+}
